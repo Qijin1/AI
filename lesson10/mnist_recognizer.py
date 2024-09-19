@@ -30,8 +30,8 @@ model.add(Dense(units=256,activation='relu'))
 model.add(Dense(units=10,activation='softmax'))
 
 model.compile(loss='mean_squared_error',optimizer=SGD(learning_rate=0.05),metrics=['accuracy'])
-model.fit(X_train,Y_train,epochs=5000,batch_size=1024)
-pres=model.predict(X)
+model.fit(X_train,Y_train,epochs=5000,batch_size=4096)
+# pres=model.predict(X)
 
 
 

@@ -4,4 +4,7 @@
 #4.lan Goodfellow, Yoshua Bengio, and Aaron Courville.《深度学习》
 #5.同济大学.《高等数学》
 #6.David E.Rumelhart, Geoffrey E.Hinton, and Ronald J.Williams.《Learning representations by back-propagating errors》
-#keras.io/zh/
+#7keras官方2文档.keras.io/zh/
+#8.Lee W Jonhson R.Dean Riess Jimmy J.Arnold《Introduce to Linear Algebra》
+
+  
